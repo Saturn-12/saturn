@@ -1,15 +1,14 @@
-# IdeaVault extension checklist
+# IdeaVault interaction pass
 
-The existing Saturn project was extended in place rather than rebuilt. The visual Orbital Scrapbook language is preserved while the product now behaves as an IdeaVault workspace.
+The existing Saturn / IdeaVault project was extended in place. The visual identity remains unchanged: Orbital Scrapbook typography, off-white dotted canvas, editorial black type, lime actions, blue status accents, and tactile card surfaces.
 
 | Area | Status |
 |---|---|
-| Preserve existing visual system | Complete |
-| Extend idea data with status, resource, media metadata | Complete |
-| Add Raw, Developing, Building, Archived status flow | Complete |
-| Add fast capture with title, text, tags, resource, status, image affordance | Complete |
-| Add draggable board with relationship lines and status lanes | Complete |
-| Add Idea of the Day prompt and composer handoff | Complete |
-| Add search, status filters, sorting, save, detail, Explore, Collections, and My brain views | Complete |
-| Verify interactions and responsive layout | Complete |
-| Run TypeScript/build checks and save delivery checkpoint | Pending final checkpoint |
+| Editable card detail view with title, description, tags, status, resource, image, star, archive, delete | Complete |
+| Fast composer with title, freeform thought, image upload/drop zone, URL, tags, status, and N shortcut | Complete |
+| Freeform wall card dragging, zoom, pan, reset, and position state | Complete |
+| Connections graph with draggable nodes, selectable focus, animated relationship lines, and real two-node connection mode | Complete |
+| Explore visual discovery cards, Idea of the Day handoff, and random idea action | Complete |
+| Browser verification of wall, detail, edit, Connections, Explore, random, keyboard shortcut, and connection creation states | Complete |
+| TypeScript and production build checks | Complete |
+| New delivery checkpoint | Pending |
